@@ -1,0 +1,9 @@
+﻿  fail_menedjer.cpp
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(26,41): warning C4305: =: усечение из "int" в "char"
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(26,38): warning C4309: =: усечение константного значения
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(45,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(45,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(69,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(115,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\proga\labs\fail_menedjer\fail_menedjer.cpp(204): warning C4715: kursor: значение возвращается не при всех путях выполнения
+  fail_menedjer.vcxproj -> D:\University\proga\labs\fail_menedjer\x64\Debug\fail_menedjer.exe
